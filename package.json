@@ -1,0 +1,40 @@
+{
+  "name": "documentation-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run serve & npm-watch build",
+    "serve": "node server.js",
+    "build": "antora --stacktrace preview.yml",
+    "publish": "git push origin HEAD:publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neo4j-documentation/documentation-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neo4j-documentation/documentation-starter/issues"
+  },
+  "homepage": "https://github.com/neo4j-documentation/documentation-starter#readme",
+  "dependencies": {
+    "@antora/cli": "^2.3.3",
+    "@antora/site-generator-default": "^2.3.3",
+    "@neo4j-documentation/macros": "^1.0.0",
+    "@neo4j-documentation/remote-include": "^1.0.0",
+    "express": "^4.17.1",
+    "npm-watch": "^0.7.0"
+  },
+  "watch": {
+    "build": {
+      "patterns": [
+        "modules"
+      ],
+      "extensions": "adoc"
+    }
+  }
+}

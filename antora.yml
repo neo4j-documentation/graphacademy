@@ -1,0 +1,15 @@
+# Folder that the repo will be built into - eg /build/site/starter
+name: starter
+# Anything other than current will result in a new folder, eg. /build/site/starter/4.1/
+version: master
+# Title to display in menu
+title: Neo4j Labs
+start_page: ROOT:index.adoc
+nav:
+- modules/ROOT/nav.adoc
+- modules/style/nav.adoc
+
+asciidoc:
+  attributes:
+    # Page theme can be "developer", "docs", or "labs"
+    page-theme: labs
