@@ -1,0 +1,11 @@
+= Videos
+:page-pagination:
+
+To insert a video, use the `video` macro:
+
+[source,adoc]
+video::_D19h5s73Co[youtube]
+
+video::_D19h5s73Co[youtube]
+
+For more information see: link:https://docs.antora.org/antora/2.1/asciidoc/embed-video/[Antora Docs: Embed a Video^]

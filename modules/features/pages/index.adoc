@@ -1,0 +1,13 @@
+= Theme Features
+:page-pagination: next
+
+** xref:pagination.adoc[Pagination]
+** xref:page-level.adoc[Page Level]
+** xref:themes.adoc[Themes]
+** xref:layouts.adoc[Layouts]
+** xref:glossary.adoc[Glossary Terms & Info Tooltips]
+** xref:source-blocks.adoc[Source Blocks]
+** xref:videos.adoc[Videos]
+** xref:meta.adoc[Meta Tags]
+** xref:search.adoc[Search Integration]
+** xref:comments.adoc[Discourse Comments]

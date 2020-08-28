@@ -1,0 +1,10 @@
+= Acknowledgements
+:page-pagination:
+
+* Optional Page
+* Provide any acknowledgements
+
+[discrete]
+== Examples
+
+link:https://neo4j.com/labs/neosemantics/acknowledgements[Example: Neosemantics Troubleshooting^]

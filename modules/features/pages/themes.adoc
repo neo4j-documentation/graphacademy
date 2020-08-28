@@ -1,0 +1,16 @@
+= Page Themes/Colouring
+:page-pagination:
+
+You can set the _theme_ for the page by setting the `page-theme` attribute.
+This adds a css class to the `<body>`  tag when the page is rendered, which is then used by the CSS to change the colours of certain elements on the page.
+
+[source,asciidoc]
+----
+include::example$preview.adoc[tag=theme]
+----
+
+== Themes
+
+* xref:themes:developer.adoc[developer]
+* xref:themes:docs.adoc[docs]
+* xref:themes:labs.adoc[labs]

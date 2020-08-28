@@ -1,0 +1,9 @@
+= Neosemantics Graph App
+:page-pagination:
+
+If there is a Graph App available then show the user how to install and use it
+
+[discrete]
+== Examples
+
+link:https://neo4j.com/labs/neosemantics/graph-app[Example: Neosemantics Graph App^]

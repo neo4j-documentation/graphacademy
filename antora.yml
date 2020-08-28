@@ -3,13 +3,14 @@ name: starter
 # Anything other than current will result in a new folder, eg. /build/site/starter/4.1/
 version: master
 # Title to display in menu
-title: Neo4j Labs
+title:  My Documentation Site
 start_page: ROOT:index.adoc
 nav:
 - modules/ROOT/nav.adoc
-- modules/style/nav.adoc
+- modules/features/nav.adoc
+- modules/themes/nav.adoc
 
 asciidoc:
   attributes:
     # Page theme can be "developer", "docs", or "labs"
-    page-theme: labs
+    # page-theme: labs
