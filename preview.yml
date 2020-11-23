@@ -1,5 +1,6 @@
 site:
   title: GraphAcademy
+  start_page: graphacademy:ROOT:index.adoc
 
 content:
   sources:
@@ -10,6 +11,7 @@ ui:
   bundle:
     url: https://s3-eu-west-1.amazonaws.com/static-content.neo4j.com/build/ui-bundle.zip
     snapshot: true
+
 urls:
   html_extension_style: indexify
 
