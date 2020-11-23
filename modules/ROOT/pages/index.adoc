@@ -1,14 +1,11 @@
 = GraphAcademy
 :page-layout: landing
-:page-theme: developer
 :page-toclevels: -1
-
 
 [.hero]
 == GraphAcademy
 
 Learn. Graph. Deploy
-
 
 == Free Online Training & Certification
 
@@ -47,7 +44,7 @@ link:https://neo4j.com/events/world/training/[See all upcoming training classes^
 
 We’ll come to you. Request customized Neo4j training for you and your development team at your office.
 
-link:mailto:training@neo4j.com[Email training@neo4j.com^, role=more information]
+mailto:training@neo4j.com[Email \training@neo4j.com^, role=more information]
 
 [.column]
 === Webinars
@@ -63,7 +60,7 @@ link:https://neo4j.com/webinars/[Register Now^, role=more information]
 === University Program
 Complimentary educational program aimed at helping students and faculty learn and teach about graph databases and Neo4j.
 
-link:https://neo4j.com/graphacademy/university-program/[Learn more, role=more information]
+xref:university-program.adoc[Learn more, role=more information]
 
 [.column]
 === Neo4j Professional Services

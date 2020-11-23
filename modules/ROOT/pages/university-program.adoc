@@ -1,0 +1,35 @@
+= Neo4j GraphAcademy University Program
+:page-layout: landing
+:page-toclevels: -1
+
+[.hero]
+== Neo4j GraphAcademy University Program
+
+Neo4j GraphAcademy University Program Powering the Neo Generation.
+
+[.flex]
+== Complimentary educational program aimed at helping students and faculty learn and teach about graph databases and Neo4j.
+
+[.column]
+=== Students
+
+Take advantage of our free resources available to you to awaken your knowledge of graph databases. Start with:
+
+- link:/sandbox/?ref=graphacademy[Neo4j Sandbox]
+- link:/graphacademy/online-training/?ref=graphacademy[Free online training courses]
+- Free link:https://graphdatabases.com[Graph Databases^] book
+- Free link:/graph-algorithms-book/?utm_source=university[Practical Graph Algorithms] book
+
+[.column]
+=== Educators and Faculty
+
+Neo4j GraphAcademy University Program helps you bring cutting edge technologies and products to your classroom to help prepare students for the business world.
+Neo4j GraphAcademy provides you with free courseware and products that you can use to teach graph databases and Neo4j to your students:
+
+- link:/graphacademy/edu-program/[Register to access Neo4j educational resources]
+
+[.flex.discrete.secondary]
+== !
+
+[.text-center]
+Join the link:https://community.neo4j.com/[Neo4j community site] with graph database enthusiasts to connect, collaborate and learn.
