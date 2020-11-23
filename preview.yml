@@ -1,5 +1,5 @@
 site:
-  title: My Documentation Site
+  title: GraphAcademy
 
 content:
   sources:
@@ -8,7 +8,7 @@ content:
 
 ui:
   bundle:
-    url: https://github.com/neo4j-documentation/docs-refresh/raw/master/ui/build/ui-bundle.zip
+    url: https://s3-eu-west-1.amazonaws.com/static-content.neo4j.com/build/ui-bundle.zip
     snapshot: true
 urls:
   html_extension_style: indexify
