@@ -1,4 +1,8 @@
-= Neo4j Documentation Starter
+= Neo4j Graph Academy
+
+link:https://neo4j.com/graphacademy[neo4j.com/graphacademy^, role=button]
+
+
 
 Built with link:https://antora.org/[Antora^].
 
