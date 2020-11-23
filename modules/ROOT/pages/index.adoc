@@ -1,2 +1,72 @@
-= Neo4j Documentation Starter
+= GraphAcademy
+:page-layout: landing
+:page-theme: developer
+:page-toclevels: -1
 
+
+[.hero]
+== GraphAcademy
+
+Learn. Graph. Deploy
+
+
+== Free Online Training & Certification
+
+Learn about using Neo4j by taking our free, online courses. After completing the link:/graphacademy/online-training/introduction-to-neo4j-40/[Introduction to Neo4j 4.0] course, take the **free** 1-hour link:https://neo4j.com/graphacademy/neo4j-certification/[Neo4j Certified Professional exam].
+
+[.secondary]
+== Take A Course
+
+These self-paced courses introduce you to and teach you about Neo4j, Cypher, graph data modeling, graph algorithms, and Neo4j administration. Each course will take you anywhere from 4 hours to 2 days to complete and includes hands-on exercises so you can gain experience with Neo4j.
+
+link:/graphacademy/online-training/[View Courses, role=more information]
+
+== Get Certified
+
+Now is the perfect time to show your employer, customers, and colleagues that you are a Neo4j expert. We currently have two free certification exams.
+
+1. **Certified Neo4j Professional** (one hour exam with 80 questions): Tests Neo4j, Cypher, Data Modeling
+2. **Neo4j 4.0 Certified** (45 minute exam with 30 questions): Tests Neo4j 4.0 features; must have passed the Certified Neo4j Professional exam
+3. If you pass the **Certified Neo4j Professional** exam, you gain access to additional **advanced Neo4j training**.
+
+link:/graphacademy/neo4j-certification/[Take the Certified Neo4j Professional Exam, role=button]
+link:/graphacademy/neo4j-certification-40/[Take the Neo4j 4.0 Certification Exam, role=button]
+
+[.flex.secondary]
+== Instructor-led Training & Webinars
+
+[.column]
+=== Public Training
+
+Neo4j Fundamentals to Graph Data Modeling, get hands-on training and learn from Neo4j experts.
+
+link:https://neo4j.com/events/world/training/[See all upcoming training classes^, role=more information]
+
+[.column]
+=== Private/Onsite Training
+
+We’ll come to you. Request customized Neo4j training for you and your development team at your office.
+
+link:mailto:training@neo4j.com[Email training@neo4j.com^, role=more information]
+
+[.column]
+=== Webinars
+
+Featuring special guests and Neo4j team members, learn techniques and discover graph database innovations.
+
+link:https://neo4j.com/webinars/[Register Now^, role=more information]
+
+[.flex.discrete]
+== More Resources
+
+[.column]
+=== University Program
+Complimentary educational program aimed at helping students and faculty learn and teach about graph databases and Neo4j.
+
+link:https://neo4j.com/graphacademy/university-program/[Learn more, role=more information]
+
+[.column]
+=== Neo4j Professional Services
+We offer a Technical bootcamp (4 days) which is a combination of training and consulting services to ensure your project gets off to the right start.
+
+link:https://neo4j.com/professional-services[Learn more, role=more information]

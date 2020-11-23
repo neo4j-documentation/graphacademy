@@ -1,16 +1,15 @@
 # Folder that the repo will be built into - eg /build/site/starter
-name: starter
+name: graphacademy
 # Anything other than current will result in a new folder, eg. /build/site/starter/4.1/
 version: master
 # Title to display in menu
-title:  My Documentation Site
+title:  GraphAcademy
 start_page: ROOT:index.adoc
-nav:
-- modules/ROOT/nav.adoc
-- modules/features/nav.adoc
-- modules/themes/nav.adoc
+# nav:
+# - modules/ROOT/nav.adoc
+# - modules/features/nav.adoc
+# - modules/themes/nav.adoc
 
 asciidoc:
   attributes:
-    # Page theme can be "developer", "docs", or "labs"
-    # page-theme: labs
+    page-theme: training

@@ -4,7 +4,7 @@ site:
 content:
   sources:
     - url: ./
-      branches: master
+      branches: HEAD
 
 ui:
   bundle:
@@ -17,3 +17,5 @@ asciidoc:
   extensions:
     - "@neo4j-documentation/remote-include"
     - "@neo4j-documentation/macros"
+  attributes:
+    page-theme: training
