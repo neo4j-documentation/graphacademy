@@ -1,8 +1,0 @@
-* xref:index.adoc[Root Index]
-** xref:introduction.adoc[Introduction]
-** xref:installation.adoc[Installation]
-** xref:tutorial.adoc[Tutorial]
-** xref:how-to-guide.adoc[How-To Guide]
-** xref:troubleshooting.adoc[Troubleshooting]
-** xref:graph-app.adoc[Graph App (Optional)]
-** xref:reference.adoc[Documentation (Reference)]

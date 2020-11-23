@@ -1,9 +1,0 @@
-= Meta Tags
-:page-pagination:
-
-To set/modify the page's meta tags, you can use the  `:description:` and  `:keyword:` attributes:
-
-[source,adoc]
-----
-include::example$preview.adoc[tag=meta]
-----
