@@ -1,6 +1,7 @@
 = GraphAcademy
 :page-layout: landing
 :page-toclevels: -1
+:page-courses-featured: training-intro-40,training-gdm-40,training-iga-40
 
 [.hero]
 == GraphAcademy
@@ -16,7 +17,44 @@ Learn about using Neo4j by taking our free, online courses. After completing the
 
 These self-paced courses introduce you to and teach you about Neo4j, Cypher, graph data modeling, graph algorithms, and Neo4j administration. Each course will take you anywhere from 4 hours to 2 days to complete and includes hands-on exercises so you can gain experience with Neo4j.
 
-link:/graphacademy/online-training/[View Courses, role=more information]
+// remind: we cannot generate the course cards dynamically because we are using two distinct playbook to generate the training courses pages and the GraphAcademy informational pages.
+[.featured-courses.discrete]
+=== Featured courses
+
+--
+image::https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/courseLogos/IntroductionToNeo4j-4.0.jpg[link=/graphacademy/training-intro-40/enrollment/]
+[%hardbreaks]
+link:/graphacademy/training-intro-40/enrollment/[*Introduction to Neo4j 4.0*,role=course-title]
+[.course-duration]#2 days#
+
+[.course-actions]
+link:/graphacademy/training-intro-40/enrollment/[More Details, role=button course-action]
+--
+
+--
+image::https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/courseLogos/GraphDataModeling.jpg[link=/graphacademy/training-gdm-40/enrollment/]
+[%hardbreaks]
+link:/graphacademy/training-gdm-40/enrollment/[*Graph Data Modeling for Neo4j*, role=course-title]
+[.course-duration]#4 hours#
+
+[.course-actions]
+link:/graphacademy/training-gdm-40/enrollment/[More Details, role=button course-action]
+--
+
+--
+image::https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/courseLogos/IntroGraphAlgos-40.jpg[link=/graphacademy/training-iga-40/enrollment/]
+[%hardbreaks]
+link:/graphacademy/training-iga-40/enrollment/[*Introduction to Graph Algorithms in Neo4j 4.0*, role=course-title] [.course-label]#New#
+[.course-duration]#5.5 hours#
+
+[.course-actions]
+link:/graphacademy/training-iga-40/enrollment/[More Details, role=button course-action]
+--
+
+[.discrete]
+=== View courses
+
+link:/graphacademy/online-training/[View All Courses, role=more information]
 
 == Get Certified
 
