@@ -37,7 +37,7 @@ link:/graphacademy/neo4j-certification-40/[Take the Neo4j 4.0 Certification Exam
 
 Neo4j Fundamentals to Graph Data Modeling, get hands-on training and learn from Neo4j experts.
 
-link:https://neo4j.com/events/world/training/[See all upcoming training classes^, role=more information]
+link:https://neo4j.com/events/list/?tribe_eventcategory%5B0%5D=25964[See all upcoming training classes^, role=more information]
 
 [.column]
 === Private/Onsite Training
