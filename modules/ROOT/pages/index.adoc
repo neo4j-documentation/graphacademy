@@ -6,16 +6,13 @@
 [.hero]
 == GraphAcademy
 
-Learn. Graph. Deploy
-
-== Free Online Training & Certification
-
-Learn about using Neo4j by taking our free, online courses. After completing the link:/graphacademy/online-training/introduction-to-neo4j-40/[Introduction to Neo4j 4.0] course, take the **free** 1-hour link:https://neo4j.com/graphacademy/neo4j-certification/[Neo4j Certified Professional exam].
+Free Online Training & Certification
 
 [.secondary]
 == Take A Course
 
-These self-paced courses introduce you to and teach you about Neo4j, Cypher, graph data modeling, graph algorithms, and Neo4j administration. Each course will take you anywhere from 4 hours to 2 days to complete and includes hands-on exercises so you can gain experience with Neo4j.
+These free, self-paced courses introduce you to and teach you about Neo4j, Cypher, graph data modeling, graph algorithms, and Neo4j administration. 
+Each course will take you anywhere from 4 hours to 2 days to complete and includes hands-on exercises so you can gain experience with Neo4j.
 
 // remind: we cannot generate the course cards dynamically because we are using two distinct playbook to generate the training courses pages and the GraphAcademy informational pages.
 [.featured-courses.discrete]
@@ -56,6 +53,9 @@ link:/graphacademy/training-iga-40/enrollment/[More Details, role=button course-
 
 link:/graphacademy/online-training/[View All Courses, role=more information]
 
+After completing the *Introduction to Neo4j 4.0* course, you can take the *free 1-hour Neo4j Certified Professional exam*.
+
+[[get-certified]]
 == Get Certified
 
 Now is the perfect time to show your employer, customers, and colleagues that you are a Neo4j expert. We currently have two free certification exams.
@@ -64,8 +64,8 @@ Now is the perfect time to show your employer, customers, and colleagues that yo
 2. **Neo4j 4.0 Certified** (45 minute exam with 30 questions): Tests Neo4j 4.0 features; must have passed the Neo4j Certified Professional exam.
 3. If you pass the **Neo4j Certified Professional** exam, you gain access to additional **advanced Neo4j training**.
 
-link:/graphacademy/neo4j-certification/[Take the Neo4j Certified Professional Exam, role=button]
-link:/graphacademy/neo4j-certification-40/[Take the Neo4j 4.0 Certified Exam, role=button]
+link:/graphacademy/neo4j-certification/[Take the Neo4j Certified Professional Exam, role=button course-action]
+link:/graphacademy/neo4j-certification-40/[Take the Neo4j 4.0 Certified Exam, role=button course-action]
 
 [.flex.secondary]
 == Instructor-led Training & Webinars
