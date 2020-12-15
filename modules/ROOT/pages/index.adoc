@@ -6,10 +6,12 @@
 [.hero]
 == GraphAcademy
 
-Free Online Training & Certification
+[.buttons]
+* <<Take A Free Course>>
+* <<Get Certified>>
 
 [.secondary]
-== Take A Course
+== Take A Free Course
 
 These free, self-paced courses introduce you to and teach you about Neo4j, Cypher, graph data modeling, graph algorithms, and Neo4j administration. 
 Each course will take you anywhere from 4 hours to 2 days to complete and includes hands-on exercises so you can gain experience with Neo4j.
