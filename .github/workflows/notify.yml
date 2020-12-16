@@ -3,7 +3,7 @@ name: Trigger Publish
 on:
   push:
     branches:
-      - master
+      - publish
 
 jobs:
   trigger_publish:
