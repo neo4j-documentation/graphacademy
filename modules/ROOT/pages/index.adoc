@@ -21,7 +21,7 @@ Each course includes hands-on exercises so you can gain experience with Neo4j.
 === Featured courses
 
 --
-image::https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/courseLogos/IntroNeo4j4.xSeries_withTitle.jpg[link=/graphacademy/training-intro-40/enrollment/]
+image::https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/courseLogos/IntroductionToNeo4j-4.0.jpg[link=/graphacademy/training-intro-40/enrollment/]
 [%hardbreaks]
 link:/graphacademy/training-intro-40/enrollment/[*Introduction to Neo4j 4.x Series*,role=course-title]
 [.course-duration]#5 courses that range from 2-5 hours each#
