@@ -14,17 +14,17 @@
 == Take A Free Course
 
 These free, self-paced courses introduce you to and teach you about Neo4j, Cypher, graph data modeling, graph algorithms, and Neo4j administration. 
-Each course will take you anywhere from 4 hours to 2 days to complete and includes hands-on exercises so you can gain experience with Neo4j.
+Each course includes hands-on exercises so you can gain experience with Neo4j.
 
 // remind: we cannot generate the course cards dynamically because we are using two distinct playbook to generate the training courses pages and the GraphAcademy informational pages.
 [.featured-courses.discrete]
 === Featured courses
 
 --
-image::https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/courseLogos/IntroductionToNeo4j-4.0.jpg[link=/graphacademy/training-intro-40/enrollment/]
+image::https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/courseLogos/IntroNeo4j4.xSeries_withTitle.jpg[link=/graphacademy/training-intro-40/enrollment/]
 [%hardbreaks]
-link:/graphacademy/training-intro-40/enrollment/[*Introduction to Neo4j 4.0*,role=course-title]
-[.course-duration]#2 days#
+link:/graphacademy/training-intro-40/enrollment/[*Introduction to Neo4j 4.x Series*,role=course-title]
+[.course-duration]#5 courses that range from 2-5 hours each#
 
 [.course-actions]
 link:/graphacademy/training-intro-40/enrollment/[More Details, role=button course-action]
@@ -43,7 +43,8 @@ link:/graphacademy/training-gdm-40/enrollment/[More Details, role=button course-
 --
 image::https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/courseLogos/IntroGraphAlgos-40.jpg[link=/graphacademy/training-iga-40/enrollment/]
 [%hardbreaks]
-link:/graphacademy/training-iga-40/enrollment/[*Introduction to Graph Algorithms in Neo4j 4.0*, role=course-title] [.course-label]#New#
+link:/graphacademy/training-iga-40/enrollment/[*Introduction to Graph Algorithms in Neo4j 4.0*, role=course-title]
+//[.course-label]#New#
 [.course-duration]#5.5 hours#
 
 [.course-actions]
@@ -55,19 +56,19 @@ link:/graphacademy/training-iga-40/enrollment/[More Details, role=button course-
 
 link:/graphacademy/online-training/[View All Courses, role=more information]
 
-After completing the *Introduction to Neo4j 4.0* course, you can take the *free 1-hour Neo4j Certified Professional exam*.
+After completing the *Introduction to Neo4j 4.x Series of courses*, you can take the *free 1-hour Neo4j Certified Professional exam*.
 
 [[get-certified]]
 == Get Certified
 
 Now is the perfect time to show your employer, customers, and colleagues that you are a Neo4j expert. We currently have two free certification exams.
 
-1. **Neo4j Certified Professional** (one hour exam with 80 questions): Tests Neo4j, Cypher, Data Modeling.
-2. **Neo4j 4.0 Certified** (45 minute exam with 30 questions): Tests Neo4j 4.0 features; must have passed the Neo4j Certified Professional exam.
+1. **Neo4j Certified Professional** (one hour exam with 80 questions): Tests Neo4j concepts, Cypher, and some basic data modeling.
+2. **Neo4j 4.x Certified** (45 minute exam with 30 questions): Tests Neo4j 4.x features; must have passed the Neo4j Certified Professional exam.
 3. If you pass the **Neo4j Certified Professional** exam, you gain access to additional **advanced Neo4j training**.
 
 link:/graphacademy/neo4j-certification/[Take the Neo4j Certified Professional Exam, role=button course-action]
-link:/graphacademy/neo4j-certification-40/[Take the Neo4j 4.0 Certified Exam, role=button course-action]
+link:/graphacademy/neo4j-certification-40/[Take the Neo4j 4.x Certified Exam, role=button course-action]
 
 [.flex.secondary]
 == Instructor-led Training & Webinars
