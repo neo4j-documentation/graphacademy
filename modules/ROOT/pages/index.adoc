@@ -63,12 +63,13 @@ After completing the *Introduction to Neo4j 4.x Series of courses*, you can take
 
 Now is the perfect time to show your employer, customers, and colleagues that you are a Neo4j expert. We currently have two free certification exams.
 
-1. **Neo4j Certified Professional** (one hour exam with 80 questions): Tests Neo4j concepts, Cypher, and some basic data modeling.
-2. **Neo4j 4.x Certified** (45 minute exam with 30 questions): Tests Neo4j 4.x features; must have passed the Neo4j Certified Professional exam.
-3. If you pass the **Neo4j Certified Professional** exam, you gain access to additional **advanced Neo4j training**.
+1. **Neo4j Certified Professional** (60 minute exam with 80 questions): Tests Neo4j concepts, Cypher, and some basic data modeling.
+2. **Neo4j 4.x Certified** (45 minute exam with 30 questions): Tests Neo4j 4.x features; must have passed the Neo4j Certified Professional exam. If you pass the **Neo4j Certified Professional** exam, you gain access to additional **advanced Neo4j training**.
+3. **Neo4j Graph Data Science Certified** (60 minute exam with 40 questions): Tests use of Neo4j Graph Data Science Library, workflow with the library, and the algorithms.
 
 link:/graphacademy/neo4j-certification/[Take the Neo4j Certified Professional Exam, role=button course-action]
 link:/graphacademy/neo4j-certification-40/[Take the Neo4j 4.x Certified Exam, role=button course-action]
+link:/graphacademy/neo4j-gds-certify/[Take the Neo4j Graph Data Science Certified Exam, role=button course-action]
 
 [.flex.secondary]
 == Instructor-led Training & Webinars
