@@ -1,0 +1,70 @@
+= Become a Neo4j Certified Professional
+:page-layout: training-certification
+:page-certification-id: kvf5988792c136d6
+:page-toclevels: -1
+
+The demand for professionals with Neo4j skills is growing tremendously. Now, you can become one of the first to prove your experience. Tomorrow’s jobs require NoSQL and graph database skills – so invest now to advance your career.
+
+== Get Your Certification
+
+Now is the perfect time to show your employer, customers and colleagues that you are a Neo4j expert. With the Neo4j Certified Professional exam, you certify your existing experience and skills.
+
+Take the Neo4j Certified Professional exam right now, and you’ll be done in less than an hour.
+
+image::https://dist.neo4j.com/wp-content/uploads/20200421105944/1_71PC-q8lnfwryq9GbMRRVQ.jpeg[width=350px]
+
+== Access to Advanced, Hands-on Training
+
+When you pass, you will also receive access to up to eight advanced Neo4j training sessions (virtual and recorded), available only to Neo4j Certified Professionals.
+
+== Frequently Asked Questions
+
+How much does it cost to take the exam?::
+No cost – it’s completely free!
+
+What areas are tested in the exam?::
+The Neo4j Certified Professional exam tests you in the following areas:
++
+- Neo4j property graph model
+- Neo4j components used for development
+- Cypher queries
+- Creating nodes and relationships
+- Importing data
+- How long is the exam?
+- The exam includes 80 questions in 60 minutes.
+
+What score do I need in order to pass?::
+You must score 80% or above in order to be certified.
+
+Can I retake the exam?::
+Yes, if you fail to achieve an 80% score, you can retake the certification exam later after learning a bit more about Neo4j. Note that you can retake the exam after a 24-hour period.
+
+Will I get a certificate document?::
+Yes, you will get a certificate to print or save that indicates your achievement.
+
+Where can I learn the required skills?::
+Any of the following are great resources for learning the skills you need for the Neo4j Certification:
++
+These free online training courses if you are using Neo4j 4.x:
+
+. https://neo4j.com/graphacademy/training-overview-40/enrollment/[Overview of Neo4j 4.x]
+. https://neo4j.com/graphacademy/training-querying-40/enrollment/[Querying with Cypher in Neo4j 4.x]
+. https://neo4j.com/graphacademy/training-updating-40/enrollment/[Creating Nodes and Relationships in Neo4j 4.x]
+. https://neo4j.com/graphacademy/training-best-practices-40/enrollment/[Using Indexes and Query Best Practices in Neo4j 4.x]
+. https://neo4j.com/graphacademy/training-importing-data-40/enrollment/[Importing Data with Neo4j 4.x]
++
+Or this online training course if you are using Neo4j 3.5:
++
+- https://neo4j.com/graphacademy/online-training/introduction-to-neo4j/[Introduction to Neo4j 3.5]
+- https://neo4j.com/developer/[Neo4j developer pages]
+- Free Neo4j e-books: https://graphdatabases.com/[Graph Databases] and https://neo4j.com/book-learning-neo4j/[Learning Neo4j]
+- https://neo4j.com/graphacademy/[Classroom training sessions]
+- https://neo4j.com/docs/cypher-manual/current/[The Neo4j Cypher Manual]
+- https://neo4j.com/webinars/[Neo4j Webinars]
+
+Are there other types of Neo4j Certifications available?::
+Currently, there are two types of free Neo4j certifications available.
+Neo4j Certified Professional and Neo4j 4.x Certified.
+To take the xref:neo4j-certification-40.adoc[Neo4j 4.x Certified Exam], you must have passed the Neo4j Certified Professional exam.
+
+If you have questions around the Neo4j Certification Program or the exam, please send us an email to certification@neo4j.com.
