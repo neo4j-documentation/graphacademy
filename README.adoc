@@ -2,8 +2,6 @@
 
 link:https://neo4j.com/graphacademy[neo4j.com/graphacademy^, role=button]
 
-
-
 Built with link:https://antora.org/[Antora^].
 
 - link:https://docs.antora.org/antora/latest/install/install-antora/[Install Antora]
@@ -19,24 +17,31 @@ To install the dependencies run:
 [source,sh]
 npm install
 
-
 == Live Preview
 
 To preview the docs run:
 
 [source,sh]
-npm start
+PORT=3000 npm start
 
-
-This will build a set of HTML files in `build/site` and then serve them through an express server at http://localhost:8000.
+This will build a set of HTML files in `build/site` and then serve them through an express server at http://localhost:3000.
 The dev script will also listen for changes and automatically rebuild the files automatically.
 You'll still need to refresh the page to view the changes.
 
+[TIP]
+====
+If you want to test the certification pages locally, you will need to disable web security.
+Otherwise, Marketo won't submit the form.
+
+If you are using Chrome, you can pass the CLI option `--disable-web-security` when launching Chrome:
+
+[source,sh]
+chrome --disable-web-security
+====
 
 == Publishing
 
 Pushing to the `publish` branch of this repo will trigger a rebuild of the HTML and CSS files in the link:https://github.com/neo4j-documentation/docs-refresh[Docs Refresh^] repo using a link:.github/[Github Action].
-
 
 [source,sh]
 ----
