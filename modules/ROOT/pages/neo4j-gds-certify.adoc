@@ -35,7 +35,7 @@ Can I retake the exam?::
 Yes, if you fail to achieve an 80% score, you can retake the certification exam later after learning a bit more about the Graph Data Science Library. Note that you can retake the exam after a 24-hour period.
 
 Will I get a certificate document?::
-Yes, you will get a certificate to print or save that indicates your achievement.
+Yes, you will receive an email with a link to your certificate to print or save that indicates your achievement.
 
 Where can I learn the required skills?::
 Any of the following are great resources for learning the skills you need for the Neo4j Graph Data Science Certification:
@@ -61,5 +61,10 @@ Here are other resources you can use to prepare for the certification exam:
 - https://neo4j.com/developer/graph-data-science/[Neo4j Graph Data Science Developer Pages]
 - https://neo4j.com/docs/cypher-manual/current/[The Neo4j Cypher Manual]
 --
+
+Are there other types of free Neo4j certifications available?::
+- xref:neo4j-certification.adoc[Neo4j Certified Professional Exam] tests you on Neo4j 4.x features, Cypher, and graph data modeling.
+- xref:neo4j-certification-40.adoc[Neo4j 4.x Certified Exam] tests you on Neo4j 4.x features exclusively and focuses on Neo4j in production (RBAC and Fabric).
+
 
 If you have questions around the Neo4j Certification Program, please send us an email to certification@neo4j.com.
