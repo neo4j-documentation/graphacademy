@@ -24,7 +24,7 @@ Each course includes hands-on exercises so you can gain experience with Neo4j.
 image::https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/courseLogos/IntroductionToNeo4j-4.0.jpg[link=/graphacademy/training-intro-40/enrollment/]
 [%hardbreaks]
 link:/graphacademy/training-intro-40/enrollment/[*Introduction to Neo4j 4.x Series*,role=course-title]
-[.course-duration]#5 courses that range from 2-5 hours each#
+[.course-duration]#5 courses that range from 2-5 hours each.#
 
 [.course-actions]
 link:/graphacademy/training-intro-40/enrollment/[More Details, role=button course-action]
@@ -61,10 +61,10 @@ After completing the *Introduction to Neo4j 4.x Series of courses*, you can take
 [[get-certified]]
 == Get Certified
 
-Now is the perfect time to show your employer, customers, and colleagues that you are a Neo4j expert. We currently have two free certification exams.
+Now is the perfect time to show your employer, customers, and colleagues that you are a Neo4j expert. We currently have three free certification exams.
 
-1. **Neo4j Certified Professional** (60 minute exam with 80 questions): Tests Neo4j concepts, Cypher, and some basic data modeling. If you pass the **Neo4j Certified Professional** exam, you gain access to additional **advanced Neo4j training**.
-2. **Neo4j 4.x Certified** (45 minute exam with 30 questions): Tests Neo4j 4.x features; must have passed the **Neo4j Certified Professional** exam.
+1. **Neo4j Certified Professional** (60 minute exam with 80 questions): Tests Neo4j 4.x concepts, Cypher, and some basic data modeling. If you pass the **Neo4j Certified Professional** exam, you gain access to additional **advanced Neo4j training**.
+2. **Neo4j 4.x Certified** (45 minute exam with 30 questions): Tests Neo4j 4.x-specific features but focuses on production features of Neo4j 4.x (RBAC and Fabric).
 3. **Neo4j Graph Data Science Certified** (60 minute exam with 40 questions): Tests use of Neo4j Graph Data Science Library, workflow with the library, and the algorithms.
 
 link:/graphacademy/neo4j-certification/[Take the Neo4j Certified Professional Exam, role=button course-action]
