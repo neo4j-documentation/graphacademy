@@ -37,6 +37,11 @@ If you are using Chrome, you can pass the CLI option `--disable-web-security` wh
 
 [source,sh]
 chrome --disable-web-security
+
+In some cases, you might need to specify the `--user-data-dir` option to disable web security:
+
+[source,sh]
+chrome --user-data-dir="/tmp" --disable-web-security
 ====
 
 == Publishing
