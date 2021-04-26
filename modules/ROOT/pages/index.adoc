@@ -40,15 +40,26 @@ link:/graphacademy/training-gdm-40/enrollment/[*Graph Data Modeling for Neo4j*, 
 link:/graphacademy/training-gdm-40/enrollment/[More Details, role=button course-action]
 --
 
---
-image::https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/courseLogos/IntroGraphAlgos-40.jpg[link=/graphacademy/training-iga-40/enrollment/]
-[%hardbreaks]
-link:/graphacademy/training-iga-40/enrollment/[*Introduction to Graph Algorithms in Neo4j 4.0*, role=course-title]
+//--
+//image::https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/courseLogos/IntroGraphAlgos-40.jpg[link=/graphacademy/training-iga-40/enrollment/]
+//[%hardbreaks]
+//link:/graphacademy/training-iga-40/enrollment/[*Introduction to Graph Algorithms in Neo4j 4.0*, role=course-title]
 //[.course-label]#New#
-[.course-duration]#5.5 hours#
+//[.course-duration]#5.5 hours#
+
+//[.course-actions]
+//link:/graphacademy/training-iga-40/enrollment/[More Details, role=button course-action]
+//--
+
+--
+image::https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/courseLogos/GraphQL-APIs.jpg[link=/graphacademy/training-graphql-apis/enrollment/]
+[%hardbreaks]
+link:/graphacademy/training-graphql-apis/enrollment/[*Building GraphQL APIs Using The Neo4j GraphQL Library*, role=course-title]
+[.course-label]#New#
+[.course-duration]#4 hours#
 
 [.course-actions]
-link:/graphacademy/training-iga-40/enrollment/[More Details, role=button course-action]
+link:/graphacademy/training-graphql-apis/enrollment/[More Details, role=button course-action]
 --
 
 [.discrete]
