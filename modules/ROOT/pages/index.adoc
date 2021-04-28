@@ -1,7 +1,7 @@
 = GraphAcademy
 :page-layout: landing
 :page-toclevels: -1
-:page-courses-featured: training-intro-40,training-gdm-40,training-iga-40
+:page-courses-featured: training-intro-40,training-gdm-40,training-graphql-apis
 
 [.hero]
 == GraphAcademy
