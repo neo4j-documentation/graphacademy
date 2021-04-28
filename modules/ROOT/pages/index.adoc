@@ -7,28 +7,61 @@
 == GraphAcademy
 
 [.buttons]
-* <<Take A Free Course>>
+* xref:courses[Take a Free Course]
 * <<Get Certified>>
 
-[.secondary]
-== Take A Free Course
+[.secondary.leading]
+== Intro to Neo4j 4.x Series
 
-These free, self-paced courses introduce you to and teach you about Neo4j, Cypher, graph data modeling, graph algorithms, and Neo4j administration. 
+++++
+<p style="font-size: 2rem; font-weight: 200; margin: 2rem 2rem 2rem 0;">
+The <strong>Intro to Neo4j 4.x Series</strong> provides you with all of the information required to become proficient with Neo4j.
+</p>
+++++
+
+++++
+<p style="font-size: 1.2rem; font-weight: 200; margin: 2rem 2rem 2rem 0;">
+Once you have completed these courses, you will be able to complete the <a href="neo4j-certification-40">free 1-hour Neo4j Certified Professional exam</a>.
+</p>
+++++
+
+
+1. link:/graphacademy/training-overview-40/enrollment/[Overview of Neo4j 4.x] +
+   An introduction to Neo4j 4.x and the Neo4j Graph Platform
+
+2. link:/graphacademy/training-querying-40/enrollment/[Querying with Cypher in Neo4j 4.x] +
+   Hands on exercises to help you build a good starting knowledge of Neo4j
+
+3. link:/graphacademy/training-updating-40/enrollment/[Creating Nodes and Relationships in Neo4j 4.x] +
+   Learn multiple methods for creating nodes and relationships in the Graph
+
+4. link:/graphacademy/training-best-practices-40/enrollment/[Using Indexes and Query Best Practices in Neo4j 4.x] +
+   Learn how to to create constraints and indexes for your Neo4j database, as well as use full-text schema indexes.
+
+5. link:/graphacademy/training-importing-data-40/enrollment/[Importing Data with Neo4j 4.x] +
+   Explore the possible methods for importing data into Neo4j, including CSV and the neo4j-admin tool.
+
+
+[[courses]]
+[.secondary]
+== More Courses
+
+These free, self-paced courses introduce you to and teach you about Neo4j, Cypher, graph data modeling, graph algorithms, and Neo4j administration.
 Each course includes hands-on exercises so you can gain experience with Neo4j.
 
 // remind: we cannot generate the course cards dynamically because we are using two distinct playbook to generate the training courses pages and the GraphAcademy informational pages.
 [.featured-courses.discrete]
 === Featured courses
 
---
-image::https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/courseLogos/IntroductionToNeo4j-4.0.jpg[link=/graphacademy/training-intro-40/enrollment/]
-[%hardbreaks]
-link:/graphacademy/training-intro-40/enrollment/[*Introduction to Neo4j 4.x Series*,role=course-title]
-[.course-duration]#5 courses that range from 2-5 hours each.#
+// --
+// image::https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/courseLogos/IntroductionToNeo4j-4.0.jpg[link=/graphacademy/training-intro-40/enrollment/]
+// [%hardbreaks]
+// link:/graphacademy/training-intro-40/enrollment/[*Introduction to Neo4j 4.x Series*,role=course-title]
+// [.course-duration]#5 courses that range from 2-5 hours each.#
 
-[.course-actions]
-link:/graphacademy/training-intro-40/enrollment/[More Details, role=button course-action]
---
+// [.course-actions]
+// link:/graphacademy/training-intro-40/enrollment/[More Details, role=button course-action]
+// --
 
 --
 image::https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/courseLogos/GraphDataModeling.jpg[link=/graphacademy/training-gdm-40/enrollment/]
@@ -40,16 +73,16 @@ link:/graphacademy/training-gdm-40/enrollment/[*Graph Data Modeling for Neo4j*, 
 link:/graphacademy/training-gdm-40/enrollment/[More Details, role=button course-action]
 --
 
-//--
-//image::https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/courseLogos/IntroGraphAlgos-40.jpg[link=/graphacademy/training-iga-40/enrollment/]
-//[%hardbreaks]
-//link:/graphacademy/training-iga-40/enrollment/[*Introduction to Graph Algorithms in Neo4j 4.0*, role=course-title]
-//[.course-label]#New#
-//[.course-duration]#5.5 hours#
+--
+image::https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/courseLogos/IntroGraphAlgos-40.jpg[link=/graphacademy/training-iga-40/enrollment/]
+[%hardbreaks]
+link:/graphacademy/training-iga-40/enrollment/[*Introduction to Graph Algorithms in Neo4j 4.0*, role=course-title]
+[.course-label]#New#
+[.course-duration]#5.5 hours#
 
-//[.course-actions]
-//link:/graphacademy/training-iga-40/enrollment/[More Details, role=button course-action]
-//--
+[.course-actions]
+link:/graphacademy/training-iga-40/enrollment/[More Details, role=button course-action]
+--
 
 --
 image::https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/courseLogos/GraphQL-APIs.jpg[link=/graphacademy/training-graphql-apis/enrollment/]
@@ -67,8 +100,9 @@ link:/graphacademy/training-graphql-apis/enrollment/[More Details, role=button c
 
 link:/graphacademy/online-training/[View All Courses, role=more information]
 
-After completing the *Introduction to Neo4j 4.x Series of courses*, you can take the *free 1-hour Neo4j Certified Professional exam*.
+//
 
+[.secondary]
 [[get-certified]]
 == Get Certified
 
@@ -82,7 +116,7 @@ link:/graphacademy/neo4j-certification/[Take the Neo4j Certified Professional Ex
 link:/graphacademy/neo4j-certification-40/[Take the Neo4j 4.x Certified Exam, role=button course-action]
 link:/graphacademy/neo4j-gds-certify/[Take the Neo4j Graph Data Science Certified Exam, role=button course-action]
 
-[.flex.secondary]
+[.flex]
 == Instructor-led Training & Webinars
 
 [.column]
@@ -106,7 +140,7 @@ Featuring special guests and Neo4j team members, learn techniques and discover g
 
 link:https://neo4j.com/webinars/[Register Now^, role=more information]
 
-[.flex.discrete]
+[.flex.discrete.secondary]
 == More Resources
 
 [.column]
