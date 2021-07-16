@@ -7,7 +7,7 @@ The demand for professionals with Neo4j skills is growing tremendously. Now, you
 
 == Get Your Certification
 
-Now is the perfect time to show your employer, customers and colleagues that you are a Neo4j expert. With the Neo4j Certified Professional exam, you certify your existing experience and skills.
+Now is the perfect time to show your employer, customers, and colleagues that you are a Neo4j expert. With the Neo4j Certified Professional exam, you certify your existing experience and skills.
 
 Take the Neo4j Certified Professional exam right now, and you’ll be done in less than an hour.
 
