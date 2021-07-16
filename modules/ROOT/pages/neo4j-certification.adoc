@@ -11,7 +11,9 @@ Now is the perfect time to show your employer, customers and colleagues that you
 
 Take the Neo4j Certified Professional exam right now, and you’ll be done in less than an hour.
 
-image::https://dist.neo4j.com/wp-content/uploads/20200421105944/1_71PC-q8lnfwryq9GbMRRVQ.jpeg[width=350px]
+If you pass the certification, you wlll be rewarded with a t-shirt in a color of your choice.
+
+image::https://dist.neo4j.com/wp-content/uploads/20210716105612/2021-certified-develper-tshirt.png[width=600px]
 
 == Access to Advanced, Hands-on Training
 
