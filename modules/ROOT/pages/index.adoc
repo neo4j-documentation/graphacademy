@@ -12,17 +12,15 @@
 
 
 [.secondary.leading]
-== Intro to Neo4j 4.x Series
+== Introducing the new GraphAcademy
 
-.Introducing the new GraphAcademy
-[TIP]
-====
 Over the past couple of months, we have been working on a new version of Neo4j GraphAcademy, featuring brand new, interactive, hands-on courses.
 Click the link below to visit the new site.
 
 link:https://graphacademy.neo4j.com?ref=old[Visit the new GraphAcademy now,role=btn]
-====
 
+[.secondary]
+== Intro to Neo4j 4.x Series
 
 
 ++++
@@ -55,7 +53,6 @@ Once you have completed these courses, you will be able to complete the <a href=
 
 
 [[courses]]
-[.secondary]
 == More Courses
 
 These free, self-paced courses introduce you to and teach you about Neo4j, Cypher, graph data modeling, graph algorithms, and Neo4j administration.
@@ -114,7 +111,6 @@ link:/graphacademy/online-training/[View All Courses, role=more information]
 
 //
 
-[.secondary]
 [[get-certified]]
 == Get Certified
 
@@ -128,7 +124,7 @@ link:/graphacademy/neo4j-certification/[Take the Neo4j Certified Professional Ex
 link:/graphacademy/neo4j-certification-40/[Take the Neo4j 4.x Certified Exam, role=button course-action]
 link:/graphacademy/neo4j-gds-certify/[Take the Neo4j Graph Data Science Certified Exam, role=button course-action]
 
-[.flex]
+[.flex.secondary]
 == Instructor-led Training & Webinars
 
 [.column]
