@@ -10,6 +10,10 @@
 * xref:courses[Take a Free Course]
 * <<Get Certified>>
 
+
+[.secondary.leading]
+== Intro to Neo4j 4.x Series
+
 .Introducing the new GraphAcademy
 [TIP]
 ====
@@ -20,8 +24,6 @@ link:https://graphacademy.neo4j.com?ref=old[Visit the new GraphAcademy now,role=
 ====
 
 
-[.secondary.leading]
-== Intro to Neo4j 4.x Series
 
 ++++
 <p style="font-size: 2rem; font-weight: 200; margin: 2rem 2rem 2rem 0;">
