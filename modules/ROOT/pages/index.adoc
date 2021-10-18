@@ -31,7 +31,7 @@ The <strong>Intro to Neo4j 4.x Series</strong> provides you with all of the info
 
 ++++
 <p style="font-size: 1.2rem; font-weight: 200; margin: 2rem 2rem 2rem 0;">
-Once you have completed these courses, you will be able to complete the <a href="neo4j-certification-40">free 1-hour Neo4j Certified Professional exam</a>.
+Once you have completed these courses, you will be able to complete the <a href="neo4j-certification">free 1-hour Neo4j Certified Professional exam</a>.
 </p>
 ++++
 
