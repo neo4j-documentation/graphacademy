@@ -13,7 +13,7 @@ Take the Neo4j Certified Professional exam right now, and you’ll be done in le
 
 If you pass the certification, you wlll be rewarded with a t-shirt in a color of your choice.
 
-image::https://dist.neo4j.com/wp-content/uploads/20210716105612/2021-certified-develper-tshirt.png[width=600px]
+image::https://dist.neo4j.com/wp-content/uploads/20220104085445/2022-certified-professional-t-shirt.png[width=600px]
 
 == Access to Advanced, Hands-on Training
 
