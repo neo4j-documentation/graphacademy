@@ -43,28 +43,24 @@ Any of the following are great resources for learning the skills you need for th
 --
 These free online training courses teach you how to use Cypher and Neo4j:
 
-. https://neo4j.com/graphacademy/training-overview-40/enrollment/[Overview of Neo4j 4.x]
-. https://neo4j.com/graphacademy/training-querying-40/enrollment/[Querying with Cypher in Neo4j 4.x]
-. https://neo4j.com/graphacademy/training-updating-40/enrollment/[Creating Nodes and Relationships in Neo4j 4.x]
-. https://neo4j.com/graphacademy/training-best-practices-40/enrollment/[Using Indexes and Query Best Practices in Neo4j 4.x]
-. https://neo4j.com/graphacademy/training-importing-data-40/enrollment/[Importing Data with Neo4j 4.x]
+. https://graphacademy.neo4j.com/courses/neo4j-fundamentals/[Neo4j Fundamentals^]
+. https://graphacademy.neo4j.com/courses/cypher-fundamentals/[Cypher Fundamentals^]
+. https://graphacademy.neo4j.com/courses/cypher-intermediate-queries/[Intermediate Cypher Queries^]
 
 These free online training courses teach you how to use the algorithms and workflow of the Neo4j Graph Data Science Library:
 
-- https://neo4j.com/graphacademy/training-iga-40/enrollment/[Introduction to Graph Algorithms in Neo4j 4.x]
-- https://neo4j.com/graphacademy/training-gdsds-40/enrollment/[Using a Machine Learning Workflow for Link Prediction]
-- https://neo4j.com/graphacademy/training-gdsaa-40/enrollment/[Applied Data Science for Web Applications]
+. https://graphacademy.neo4j.com/courses/gds-product-introduction/[Introduction to Neo4j Graph Data Science^]
+.  https://graphacademy.neo4j.com/courses/graph-data-science-fundamentals/[Neo4j Graph Data Science Fundamentals^]
 
 Here are other resources you can use to prepare for the certification exam:
 
-- https://neo4j.com/docs/graph-data-science/current/[Neo4j Graph Data Science Documentation]
-- https://neo4j.com/developer/graph-data-science/[Neo4j Graph Data Science Developer Pages]
-- https://neo4j.com/docs/cypher-manual/current/[The Neo4j Cypher Manual]
+- https://neo4j.com/docs/graph-data-science/current/[Neo4j Graph Data Science Library Documentation^]
+- https://neo4j.com/developer/graph-data-science/[Neo4j Graph Data Science Developer Pages^]
+- https://neo4j.com/docs/cypher-manual/current/[The Neo4j Cypher Manual^]
 --
 
 Are there other types of free Neo4j certifications available?::
 - xref:neo4j-certification.adoc[Neo4j Certified Professional Exam] tests you on Neo4j 4.x features, Cypher, and graph data modeling.
-- xref:neo4j-certification-40.adoc[Neo4j 4.x Certified Exam] tests you on Neo4j 4.x features exclusively and focuses on Neo4j in production (RBAC and Fabric).
 
 
 If you have questions around the Neo4j Certification Program, please send us an email to certification@neo4j.com.
