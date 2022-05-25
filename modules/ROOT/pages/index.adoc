@@ -1,25 +1,30 @@
 = GraphAcademy
 :page-layout: landing
 :page-toclevels: -1
-:page-courses-featured: training-gdm-40,training-iga-40,training-graphql-apis
+//:page-courses-featured: training-gdm-40,training-iga-40,training-graphql-apis
 
 [.hero]
 == GraphAcademy
 
 [.buttons]
-* xref:courses[Take a Free Course]
+* link:https://graphacademy.neo4j.com?ref=old[Take a Free Course]
 * <<Get Certified>>
 
 
 [.secondary.leading]
-== Introducing the new GraphAcademy
+== GraphAcademy
 
-Over the past couple of months, we have been working on a new version of Neo4j GraphAcademy, featuring brand new, interactive, hands-on courses.
+We have a new version of Neo4j GraphAcademy, featuring brand new, interactive, hands-on courses.
 Click the link below to visit the new site.
 
 link:https://graphacademy.neo4j.com?ref=old[Visit the new GraphAcademy now,role=btn]
 
+[NOTE]
+--
+Some older GraphAcademy courses are still available in the **Legacy Courses** section of GraphAcademy.
+--
 [.secondary]
+////
 == Intro to Neo4j 4.x Series
 
 
@@ -110,18 +115,18 @@ link:/graphacademy/training-graphql-apis/enrollment/[More Details, role=button c
 link:/graphacademy/online-training/[View All Courses, role=more information]
 
 //
-
+////
 [[get-certified]]
 == Get Certified
 
-Now is the perfect time to show your employer, customers, and colleagues that you are a Neo4j expert. We currently have three free certification exams.
+Now is the perfect time to show your employer, customers, and colleagues that you are a Neo4j expert. We currently have two free certification exams.
 
-1. **Neo4j Certified Professional** (60 minute exam with 80 questions): Tests Neo4j 4.x concepts, Cypher, and some basic data modeling. If you pass the **Neo4j Certified Professional** exam, you gain access to additional **advanced Neo4j training**.
-2. **Neo4j 4.x Certified** (45 minute exam with 30 questions): Tests Neo4j 4.x-specific features but focuses on production features of Neo4j 4.x (RBAC and Fabric).
-3. **Neo4j Graph Data Science Certified** (60 minute exam with 40 questions): Tests use of Neo4j Graph Data Science Library, workflow with the library, and the algorithms.
+**Neo4j Certified Professional** (60 minute exam with 80 questions): Tests Neo4j concepts, Cypher, Importing data, and some basic data modeling.
 
 link:/graphacademy/neo4j-certification/[Take the Neo4j Certified Professional Exam, role=button course-action]
-link:/graphacademy/neo4j-certification-40/[Take the Neo4j 4.x Certified Exam, role=button course-action]
+
+**Neo4j Graph Data Science Certified** (60 minute exam with 40 questions): Tests use of Neo4j Graph Data Science Library, workflow with the library, and the algorithms.
+
 link:/graphacademy/neo4j-gds-certify/[Take the Neo4j Graph Data Science Certified Exam, role=button course-action]
 
 [.flex.secondary]

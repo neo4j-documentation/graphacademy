@@ -11,13 +11,13 @@ Now is the perfect time to show your employer, customers, and colleagues that yo
 
 Take the Neo4j Certified Professional exam right now, and you’ll be done in less than an hour.
 
-If you pass the certification, you wlll be rewarded with a t-shirt in a color of your choice.
+If you pass the certification, you will be rewarded with a t-shirt in a color of your choice.
 
 image::https://dist.neo4j.com/wp-content/uploads/20220104085445/2022-certified-professional-t-shirt.png[width=600px]
 
-== Access to Advanced, Hands-on Training
+//== Access to Advanced, Hands-on Training
 
-When you pass, you will also receive access to up to eight advanced Neo4j training sessions (virtual and recorded), available only to Neo4j Certified Professionals.
+//When you pass, you will also receive access to up to eight advanced Neo4j training sessions (virtual and recorded), available only to Neo4j Certified Professionals.
 
 == Frequently Asked Questions
 
@@ -25,13 +25,13 @@ How much does it cost to take the exam?::
 No cost – it’s completely free!
 
 What areas are tested in the exam?::
-The Neo4j Certified Professional exam tests you in using *Neo4j 4.x* in the following areas:
+The Neo4j Certified Professional exam tests you in using *Neo4j* in the following areas:
 +
 - Neo4j property graph model
-- Neo4j components used for development
 - Cypher queries
-- Creating nodes and relationships
+- Graph data modeling
 - Importing data
+- Application development concepts
 
 How long is the exam?::
 The exam includes 80 questions in 60 minutes.
@@ -50,12 +50,12 @@ Where can I learn the required skills?::
 --
 You can take these free online training courses:
 
-. https://neo4j.com/graphacademy/training-overview-40/enrollment/[Overview of Neo4j 4.x]
-. https://neo4j.com/graphacademy/training-querying-40/enrollment/[Querying with Cypher in Neo4j 4.x]
-. https://neo4j.com/graphacademy/training-updating-40/enrollment/[Creating Nodes and Relationships in Neo4j 4.x]
-. https://neo4j.com/graphacademy/training-best-practices-40/enrollment/[Using Indexes and Query Best Practices in Neo4j 4.x]
-. https://neo4j.com/graphacademy/training-importing-data-40/enrollment/[Importing Data with Neo4j 4.x]
-. https://neo4j.com/graphacademy/training-gdm-40/enrollment/[Graph Data Modeling for Neo4j]
+. https://graphacademy.neo4j.com/courses/neo4j-fundamentals/[Neo4j Fundamentals^]
+. https://graphacademy.neo4j.com/courses/cypher-fundamentals/[Cypher Fundamentals^]
+. https://graphacademy.neo4j.com/courses/modeling-fundamentals/[Graph Data Modeling Fundamentals^]
+. https://graphacademy.neo4j.com/courses/importing-data/[Importing CSV Data into Neo4j^]
+. https://graphacademy.neo4j.com/courses/cypher-intermediate-queries/[Intermediate Cypher Queries^]
+. https://graphacademy.neo4j.com/categories/developer/[Any one of the Building Neo4j Applications courses^]
 
 []
 Here are other resources to learn more:
@@ -68,7 +68,7 @@ Here are other resources to learn more:
 - https://neo4j.com/webinars/[Neo4j Webinars]
 --
 Are there other types of free Neo4j certifications available?::
-- xref:neo4j-certification-40.adoc[Neo4j 4.x Certified Exam] tests you on Neo4j 4.x features exclusively and focuses on Neo4j in production (RBAC and Fabric).
+//- xref:neo4j-certification-40.adoc[Neo4j 4.x Certified Exam] tests you on Neo4j 4.x features exclusively and focuses on Neo4j in production (RBAC and Fabric).
 - xref:neo4j-gds-certify.adoc[Neo4j Graph Data Science Certification Exam] tests you using the graph algorithms of the Neo4j Graph Data Science Library.
 
-If you have questions around the Neo4j Certification Program or the exam, please send us an email to certification@neo4j.com.
+If you have questions around the Neo4j Certification Program or the exam, please send an email to certification@neo4j.com.

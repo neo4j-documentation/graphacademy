@@ -13,12 +13,13 @@ Neo4j GraphAcademy University Program Powering the Neo Generation.
 [.column]
 === Students
 
-Take advantage of our free resources available to you to awaken your knowledge of graph databases. Start with:
+Take advantage of our **free** resources available to you to awaken your knowledge of graph databases. Start with:
 
-- link:/sandbox/?ref=graphacademy[Neo4j Sandbox]
-- link:/graphacademy/online-training/?ref=graphacademy[Free online training courses]
+- link:/sandbox/?ref=graphacademy[Neo4j Sandbox^]
+- link:https://neo4j.com/aura?ref=university-program[AuraDB Free^]
+- link:https://graphacademy.neo4j.com?ref=university-program[Free online training courses^]
 - Free link:https://graphdatabases.com[Graph Databases^] book
-- Free link:/graph-algorithms-book/?utm_source=university[Practical Graph Algorithms] book
+- Free link:/graph-algorithms-book/?utm_source=university[Practical Graph Algorithms^] book
 
 [.column]
 === Educators and Faculty
