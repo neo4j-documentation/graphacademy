@@ -1,4 +1,5 @@
 = Become Certified for Neo4j Graph Data Science
+:redirect: https://graphacademy.neo4j.com/courses/gds-certification/?ref=old
 :page-layout: training-certification
 :page-certification-id: rmq60244152a8a26
 :page-toclevels: -1
