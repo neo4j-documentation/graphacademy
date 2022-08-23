@@ -1,4 +1,5 @@
 = GraphAcademy
+:redirect: https://graphacademy.neo4j.com/?ref=old
 :page-layout: landing
 :page-toclevels: -1
 //:page-courses-featured: training-gdm-40,training-iga-40,training-graphql-apis
