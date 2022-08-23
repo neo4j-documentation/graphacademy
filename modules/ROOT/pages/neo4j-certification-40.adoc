@@ -1,4 +1,5 @@
 = Become Certified for Neo4j 4.x
+:redirect: https://graphacademy.neo4j.com/courses/neo4j-certification/?ref=old
 :page-layout: training-certification
 :page-certification-id: ndf5f6261a339fc4
 :page-toclevels: -1
